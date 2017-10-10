@@ -1,0 +1,24 @@
+html { height: 100%; }
+body{
+margin: 0; /* Убираем отступы */
+background: url(../img/error_bckg.png) 100% 100% repeat-x; /* Добавляем фон */
+background-size: auto;  /*Масштабируем фон */
+height:100%;
+}
+h1{
+    padding: 10px;
+    color:#696969;
+    font-size: 100px;
+}
+a{
+color:#00BC96;
+font-size: 20px;
+text-decoration: none;
+}
+section{
+    text-align:center;
+	position:fixed;
+    top:20%; left:0;
+	width:100%;
+	height:100%;
+}

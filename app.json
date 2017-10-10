@@ -1,0 +1,5 @@
+{
+  "name": "Portfolio",
+  "description": "A portfolio witch contain my Skill",
+  "addons": [ "heroku-postgresql" ]
+}
